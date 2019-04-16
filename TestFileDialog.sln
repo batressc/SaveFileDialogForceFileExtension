@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileDialog", "TestFileDialog\TestFileDialog.csproj", "{6D3E9925-AF25-4FEC-976F-DA5847D954FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D3E9925-AF25-4FEC-976F-DA5847D954FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3E9925-AF25-4FEC-976F-DA5847D954FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3E9925-AF25-4FEC-976F-DA5847D954FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3E9925-AF25-4FEC-976F-DA5847D954FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE2E5969-BB3D-477D-93DA-43B3EC633EF0}
+	EndGlobalSection
+EndGlobal
